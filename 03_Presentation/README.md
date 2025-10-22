@@ -1,0 +1,1 @@
+This folder is intended to contain our presentation. I guess we go for PowerPoint as it is easiest to create/modify, right?

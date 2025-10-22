@@ -1,0 +1,1 @@
+The folder should contain all the literature/sources we use during the project.

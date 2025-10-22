@@ -2,5 +2,6 @@ This project repository is set up to help steering the group work on the Computa
 - 01_Literature: All literature used throughout the project should be stored in this folder to be available for the group. Please avoid storing big files here (e.g. books) but rather articles or similar stuff.
 - 02_Code: All code that is written should go in this folder. Currently I assume a less complex project with only one or very few code files.
 - 03_Presentation: The intermediate and final presentations should go into this folder. Here, only one file is expected for the milestone presentation beginning of Dec 25 and a separate file is expected for the final presentation.
+
 Furthermore, there is a .gitignore file in the root folder to steer the synchronisation within the repository if necessary. At the moment, this file is empty, which means that nothing is ignored from synchronisation of the current folder/file. If you see the need to create further folders e.g. with temporary data that should not be considered during synchronisation, feel free to discuss.  
 Have fun!
